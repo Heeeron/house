@@ -27,7 +27,8 @@ import com.learn.utils.R;
 public class FixController extends AbstractController {
 	@Autowired
 	private FixService fixService;
-	
+
+	//djsfkajfk
 	/**
 	 * 列表
 	 */

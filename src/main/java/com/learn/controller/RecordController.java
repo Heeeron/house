@@ -27,7 +27,8 @@ import com.learn.utils.R;
 public class RecordController extends AbstractController {
 	@Autowired
 	private RecordService recordService;
-	
+
+	//djskfjdsak
 	/**
 	 * 列表
 	 */
