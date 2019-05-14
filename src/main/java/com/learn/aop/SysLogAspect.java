@@ -29,7 +29,7 @@ import java.util.Date;
 public class SysLogAspect {
 	@Autowired
 	private SysLogService sysLogService;
-	
+	//dsjafkldsajflsd
 	@Pointcut("@annotation(com.learn.annotation.SysLog)")
 	public void logPointCut() { 
 		
